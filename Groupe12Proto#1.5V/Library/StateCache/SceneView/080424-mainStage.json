@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":1146.44873046875,"y":54.052337646484378,"z":-1178.7525634765625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":106.8072738647461,"orthographic":true}
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":1132.97802734375,"y":53.65733337402344,"z":-1182.765625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":66.851806640625,"orthographic":true}
->>>>>>> TestBranche
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":847.0656127929688,"y":24.89712142944336,"z":-1101.5},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":441.64935302734377,"orthographic":true}
