@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D6A89FB5-F65E-2F08-B3C7-9C31CE285619}</ProjectGuid>
+    <ProjectGuid>{5F12408E-73DC-01F5-A6D8-9942BB3E7962}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -83,43 +83,43 @@
     <Compile Include="Assets\UD_Scripts\PlayerInteract.cs" />
     <Compile Include="Assets\UD_Scripts\PlayerScore.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Program Files (x86)/Unity Project/Groupe12Proto#1.5/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Rubika/1ère Année/Versionning/Groupe12Proto#1.5Versionning/PlatormerGroupe12Proto#1.5Versionning/Groupe12Proto#1.5V/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files (x86)/2019.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
